@@ -1,0 +1,8 @@
+{
+    "env": {    
+        "db": {
+            "__user__": "shuvokhalid", 
+            "__password__": "shuvosct"
+        }
+    }
+}
